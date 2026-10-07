@@ -25,7 +25,7 @@
 snoyy@kck-it:~$ cat a-propos.txt
 Étudiant en BTS SIO option SISR à Ensitech, à Cergy.
 J'apprends à installer, configurer, sécuriser et maintenir une infrastructure.
-À côté, je fais tourner KCK-IT : dépannage de PC, de smartphones et de réseaux.
+À côté, je fais tourner KCK-IT : dépannage de PC, Montage PC , Entretien...
 J'aime comprendre comment tout fonctionne, du câble jusqu'au serveur.
 
 snoyy@kck-it:~$ ls competences/
