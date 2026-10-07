@@ -6,7 +6,7 @@
 <!-- ===================== TEXTE ANIMÉ ===================== -->
 <p align="center">
   <a href="https://github.com/snoyy-i">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=520&lines=Salut+%F0%9F%91%8B+moi+c'est+snoyy;Passionn%C3%A9+d'informatique+%F0%9F%92%BB;Fan+de+Linux+%F0%9F%90%A7;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=520&lines=Salut+%F0%9F%91%8B+moi+c'est+snoyy;%C3%89tudiant+en+BTS+SIO+SISR+%F0%9F%96%A7;%C3%80+Ensitech+Cergy+%F0%9F%8E%93;Cr%C3%A9ateur+de+kck-it.fr+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,12 +18,10 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🎓 Je suis actuellement **[ta formation / ton job ici]**
-- 🌱 J'apprends en ce moment **[ce que tu apprends]**
-- 🛠️ Je travaille sur **kck-it-site**
+- 🎓 Étudiant en **BTS SIO option SISR** (Solutions d'Infrastructure, Systèmes et Réseaux) à **Ensitech Cergy**
+- 🌐 En train de créer mon projet **[kck-it.fr](https://kck-it.fr)** 🚀
+- 🖧 Je m'intéresse aux réseaux, aux serveurs et à l'administration système
 - 🐧 Utilisateur de Linux au quotidien
-- 🎮 En dehors du code : **[tes passions : jeux, musique, sport...]**
-- ⚡ Fun fact : **[un truc marrant sur toi]**
 
 ---
 
@@ -64,9 +62,7 @@
 
 <p align="left">
   <!-- Remplace les liens par les tiens, ou supprime ceux que tu n'utilises pas -->
-  <a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/Email-a277ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/TON_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TON_PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kck-it.contact@kck-it.fr><img src="https://img.shields.io/badge/Email-a277ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- ===================== PIED DE PAGE ===================== -->
