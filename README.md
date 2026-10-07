@@ -52,6 +52,7 @@ administration-systeme  reseaux  virtualisation  securite  web
       <img src="https://img.shields.io/badge/HTML-1A120F?style=flat-square&logo=html5&logoColor=FF8A3D" />
       <img src="https://img.shields.io/badge/CSS-1A120F?style=flat-square&logo=css3&logoColor=FF8A3D" />
       <img src="https://img.shields.io/badge/Cloudflare-1A120F?style=flat-square&logo=cloudflare&logoColor=FF8A3D" />
+      <br /><sub>Dépôt privé</sub>
     </td>
     <td width="33%" valign="top">
       <h3>🧰 KCK-IT Desk</h3>
@@ -110,8 +111,8 @@ administration-systeme  reseaux  virtualisation  securite  web
 - [x] Intégrer le BTS SIO option SISR à Ensitech
 - [x] Créer mon GitHub et prendre Git en main
 - [x] Créer KCK-IT Desk, l'outil de gestion de mon atelier
-- [ ] Mettre en ligne la première version de **kck-it.fr**
-- [ ] Monter mon propre lab réseau (serveurs, VM, pare-feu)
+- [x] Mettre en ligne la première version de **kck-it.fr**
+- [x] Monter mon propre lab réseau (serveurs, VM, pare-feu)
 - [ ] Décrocher mon BTS 🎓
 
 <br />
