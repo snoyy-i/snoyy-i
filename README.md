@@ -7,12 +7,14 @@ graph TD
      D[Cluster Proxmox ]
      E[nœud critique ]
      F[nœud services]
+     G[NetBird]
 
      A--->B
      B--->C
      C--->D
      D--->E
      D--->F
+     E--->G
 ```
 
 
