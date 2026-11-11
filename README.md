@@ -19,7 +19,7 @@ graph TD
      P[FiveM]
 
 subgraph Mazda-mx5
-     A[nœud critique]
+     E[nœud critique]
 end
      A--->B
      B--->C
