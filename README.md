@@ -23,7 +23,14 @@ subgraph Mazda-mx5
 end
 
 subgraph Toyota-ae86
-     F[nœud services]
+     I[AdGuard-2]
+     J[HomePage]
+     K[Beszel]
+     L[Uptime-Kuma]
+     M[Plex]
+     N[Tautulli]
+     O[NAS]
+     P[FiveM]
 end
 
      A--->B
