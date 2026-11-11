@@ -11,14 +11,20 @@ graph TD
      H[AdGuard]
      I[AdGuard-2]
      J[HomePage]
+     K[Beszel]
+     L[Uptime-Kuma]
+     M[Plex]
+     N[Tautulli]
+     O[NAS]
+     P[FiveM]
 
      A--->B ; F--->I
      B--->C ; F--->J
-     C--->D
-     D--->E
-     D--->F
-     E--->G
-     E--->H
+     C--->D , F--->K
+     D--->E , F--->L
+     D--->F , F--->M
+     E--->G , F--->O
+     E--->H , F--->P
 ```
 
 
