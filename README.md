@@ -5,15 +5,17 @@ graph TD
      B[Routeur]
      C[Swtich]
      D[Cluster Proxmox]
-     E[nœud critique]
-     F[nœud services]
+     E[Mazda-mx5]
+     F[Toyota-ae86]
 
 subgraph Mazda-mx5
+     E[Mazda-mx5]
      G[NetBird]
      H[AdGuard]
 end
 
 subgraph Toyota-ae86
+     F[Toyota-ae86]
      I[AdGuard-2]
      J[HomePage]
      K[Beszel]
