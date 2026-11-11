@@ -3,7 +3,7 @@
 graph TD
      A[Internet]
      B[Routeur Cudy]
-     C[Swtich NetGeard]
+     C[Swtich NETGEAR]
      D[Cluster Proxmox]
 
 subgraph Mazda-mx5
