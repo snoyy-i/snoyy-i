@@ -30,7 +30,7 @@ end
      D --> Toyota-ae86
 
 classDef reseau fill:,stroke:,color:#ffffff
-class A,B,C,D nomStyleReseau
+class A,B,C,D reseau
 ```
 
 
