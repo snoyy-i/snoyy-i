@@ -20,6 +20,7 @@ graph TD
 
 subgraph Mazda-mx5
      E[nœud critique]
+     F[nœud services]
 end
      A--->B
      B--->C
