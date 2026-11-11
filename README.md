@@ -5,11 +5,14 @@ graph TD
      B[Routeur]
      C[Swtich]
      D[Cluster Proxmox ]
+     E[nœud critique ]
+     F[nœud services]
 
      A--->B
      B--->C
      C--->D
-
+     D--->E
+     D--->F
 ```
 
 
