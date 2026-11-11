@@ -20,8 +20,12 @@ graph TD
 
 subgraph Mazda-mx5
      E[nœud critique]
+end
+
+subgraph Toyota-ae86
      F[nœud services]
 end
+
      A--->B
      B--->C
      C--->D
