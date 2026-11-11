@@ -7,16 +7,6 @@ graph TD
      D[Cluster Proxmox]
      E[nœud critique]
      F[nœud services]
-     G[NetBird]
-     H[AdGuard]
-     I[AdGuard-2]
-     J[HomePage]
-     K[Beszel]
-     L[Uptime-Kuma]
-     M[Plex]
-     N[Tautulli]
-     O[NAS]
-     P[FiveM]
 
 subgraph Mazda-mx5
      G[NetBird]
