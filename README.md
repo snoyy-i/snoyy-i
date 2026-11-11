@@ -12,6 +12,7 @@ subgraph Mazda-mx5
 end
 
 subgraph Toyota-ae86
+     direction TB
      I[AdGuard-2]
      J[HomePage]
      K[Beszel]
