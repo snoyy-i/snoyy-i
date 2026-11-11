@@ -11,10 +11,9 @@ graph TD
      H[AdGuard]
      I[AdGuard-2]
      J[HomePage]
-     K
 
      A--->B ; F--->I
-     B--->C
+     B--->C ; F--->J
      C--->D
      D--->E
      D--->F
