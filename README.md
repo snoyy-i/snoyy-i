@@ -2,6 +2,7 @@
 ```mermaid
 graph TD
      A[Internet]
+     A--->B
      B[Routeur]
 ```
 
