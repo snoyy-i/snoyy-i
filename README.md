@@ -8,12 +8,12 @@ graph TD
      E[Mazda-mx5]
      F[Toyota-ae86]
 
-subgraph E[Mazda-mx5]
+subgraph 
      G[NetBird]
      H[AdGuard]
 end
 
-subgraph F[Toyota-ae86]
+subgraph 
      I[AdGuard-2]
      J[HomePage]
      K[Beszel]
