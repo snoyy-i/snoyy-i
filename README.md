@@ -19,7 +19,8 @@ graph TD
      P[FiveM]
 
 subgraph Mazda-mx5
-     E[nœud critique]
+     G[NetBird]
+     H[AdGuard]
 end
 
 subgraph Toyota-ae86
