@@ -8,6 +8,7 @@ graph TD
      E[nœud critique ]
      F[nœud services]
      G[NetBird]
+     H[AdGuard]
 
      A--->B
      B--->C
@@ -15,6 +16,7 @@ graph TD
      D--->E
      D--->F
      E--->G
+     E--->H
 ```
 
 
