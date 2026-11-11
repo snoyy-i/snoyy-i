@@ -4,7 +4,7 @@
 Hey , moi c'est Kelyan CARRADINHA j'ai 21 ans et je suis en BTS SIO option SISR dans l'établissement Ensitech à Cergy en alternance au sein du Conseil départemental du Val-d'Oise pour une durée de 2 ans !
 
 ## Que fais-tu / qu'apprends-tu ?
-Dans le BTS pour l'instant nous avons eu des TP ( travaux pratiques ) sur la Virtualisation de machines avec Oracle VirtualBox où nous avons dû plusieurs machines selon le TP comme windows server , Ubuntu , Debian , Win11 et pfSense et ensuite tout faire selon ce qui était demandé par exemple nous avons eu : 
+Dans le BTS pour l'instant nous avons eu des TP ( travaux pratiques ) sur la Virtualisation de machines avec Oracle VirtualBox où nous avons dû monter plusieurs machines selon le TP comme windows server , Ubuntu , Debian , Win11 et pfSense et ensuite tout faire selon ce qui était demandé par exemple nous avons eu : 
 - IP_DHCP_FIREWALL
 - PUBLICATION_NAT
 - SUPERVISION_ZABBIX
