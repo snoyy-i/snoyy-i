@@ -5,8 +5,6 @@ graph TD
      B[Routeur]
      C[Swtich]
      D[Cluster Proxmox]
-     E[Mazda-mx5]
-     F[Toyota-ae86]
 
 subgraph Mazda-mx5
      G[NetBird]
@@ -27,8 +25,8 @@ end
      A--->B
      B--->C
      C--->D
-     D--->E
-     D--->F
+     D --> Mazda-mx5
+     D --> Toyota-ae86
 ```
 
 
