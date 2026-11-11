@@ -20,14 +20,21 @@ graph TD
 
 subgraph
 
-     A--->B ; F--->I
-     B--->C ; F--->J
-     C--->D ; F--->K
-     D--->E ; F--->L
-     D--->F ; F--->M
-     E--->G ; F--->N 
-     E--->H ; F--->O
-     F--->P ; 
+     A--->B
+     B--->C
+     C--->D
+     D--->E
+     D--->F
+     E--->G 
+     E--->H
+     F--->I
+     F--->J
+     F--->K
+     F--->L
+     F--->M
+     F--->N
+     F--->O
+     F--->P
 ```
 
 
