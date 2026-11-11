@@ -4,8 +4,8 @@ graph TD
      A[Internet]
      B[Routeur]
      C[Swtich]
-     D[Cluster Proxmox ]
-     E[nœud critique ]
+     D[Cluster Proxmox]
+     E[nœud critique]
      F[nœud services]
      G[NetBird]
      H[AdGuard]
@@ -17,6 +17,8 @@ graph TD
      N[Tautulli]
      O[NAS]
      P[FiveM]
+subgraph Mazda-mx5
+     A[nœud critique]
 
      A--->B
      B--->C
