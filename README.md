@@ -18,8 +18,6 @@ graph TD
      O[NAS]
      P[FiveM]
 
-subgraph
-
      A--->B
      B--->C
      C--->D
