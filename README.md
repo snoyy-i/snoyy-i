@@ -17,9 +17,10 @@ graph TD
      N[Tautulli]
      O[NAS]
      P[FiveM]
+
 subgraph Mazda-mx5
      A[nœud critique]
-
+end
      A--->B
      B--->C
      C--->D
