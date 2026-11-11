@@ -28,6 +28,9 @@ end
      C--->D
      D --> Mazda-mx5
      D --> Toyota-ae86
+
+classDef nomStyle fill:#toncode,stroke:#toncodeBordure,color:#couleurTexte
+class A,B,C,D nomStyleReseau
 ```
 
 
