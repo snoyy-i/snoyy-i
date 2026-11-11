@@ -2,8 +2,8 @@
 ```mermaid
 graph TD
      A[Internet]
-     B[Routeur]
-     C[Swtich]
+     B[Routeur Cudy]
+     C[Swtich NetGeard]
      D[Cluster Proxmox]
 
 subgraph Mazda-mx5
