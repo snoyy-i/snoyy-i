@@ -29,7 +29,7 @@ end
      D --> Mazda-mx5
      D --> Toyota-ae86
 
-classDef nomStyle fill:#toncode,stroke:#00c8ff,color:#ffffff
+classDef reseau fill:,stroke:,color:#ffffff
 class A,B,C,D nomStyleReseau
 ```
 
