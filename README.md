@@ -26,7 +26,7 @@ Pour mon projets de fin de deuxième années de BTS SIO SISR je vais devoir rend
 
 ## Comment te contacter ?
 - Juste a cliqué sur mon [site](https://kck-it.fr/#contact)
-- Mon [mail-pro](kck-it.contact@kck-it.Fr) pour tout contact en rapport avec mon activité ! 
-- Mon [mail-perso](kelyan.carradinha8@gmail.com) pour tout types de contact ! 
+- Mon [mail-pro](mailto:kck-it.contact@kck-it.fr) pour tout contact en rapport avec mon activité ! 
+- Mon [mail-perso](mailto:kelyan.carradinha8@gmail.com) pour tout types de contact ! 
 
 
