@@ -9,8 +9,11 @@ graph TD
      F[nœud services]
      G[NetBird]
      H[AdGuard]
+     I[AdGuard-2]
+     J[HomePage]
+     K
 
-     A--->B
+     A--->B ; F--->I
      B--->C
      C--->D
      D--->E
