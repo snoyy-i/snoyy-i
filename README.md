@@ -1,7 +1,8 @@
 # GitHub - Kelyan
 ```mermaid
 graph TD
-     A[Homelab]
+     A[Internet]
+     B[Routeur]
 ```
 
 
