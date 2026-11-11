@@ -1,39 +1,4 @@
 # GitHub - Kelyan
-```mermaid
-graph TD
-     A[Internet]
-     B[Routeur Cudy]
-     C[Swtich NETGEAR]
-     D[Cluster Proxmox]
-
-subgraph Mazda-mx5
-     G[NetBird<br/>VPN mesh]
-     H[AdGuard]
-end
-
-subgraph Toyota-ae86
-     direction TB
-     I[AdGuard-2]
-     J[HomePage]
-     K[Beszel]
-     L[Uptime-Kuma]
-     M[Plex]
-     N[Tautulli]
-     O[NAS]
-     P[FiveM]
-end
-
-     A--->B
-     B--->C
-     C--->D
-     D --> Mazda-mx5
-     D --> Toyota-ae86
-
-classDef reseau fill:,stroke:,color:#ffffff
-class A,B,C,D reseau
-```
-
-
 ## Qui es-tu ?
 Hey , moi c'est Kelyan CARRADINHA j'ai 21 ans et je suis en BTS SIO option SISR dans l'établissement Ensitech à Cergy en alternance au sein du Conseil départemental du Val-d'Oise pour une durée de 2 ans !
 
