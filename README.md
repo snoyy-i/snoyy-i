@@ -7,7 +7,7 @@ graph TD
      D[Cluster Proxmox]
 
 subgraph Mazda-mx5
-     G[NetBird]
+     G[NetBird<br/>VPN mesh]
      H[AdGuard]
 end
 
