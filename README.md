@@ -4,6 +4,10 @@ graph TD
      A[Internet]
      A--->B
      B[Routeur]
+     B--->C
+     C[Swtich]
+     C--->D
+     D[Cluster Proxmox ]
 ```
 
 
